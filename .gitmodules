@@ -1,0 +1,3 @@
+[submodule "01-react-foundation"]
+	path = 01-react-foundation
+	url = https://github.com/pandc19/react-native-01-react-foundation.git
