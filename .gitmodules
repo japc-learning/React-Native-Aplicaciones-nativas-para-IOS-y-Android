@@ -4,3 +4,6 @@
 [submodule "02-MyFirstApp"]
 	path = 02-MyFirstApp
 	url = https://github.com/pandc19/react-native-02-MyFirstApp.git
+[submodule "03-iosCalculator"]
+	path = 03-iosCalculator
+	url = https://github.com/pandc19/react-native-03-iosCalculator.git
