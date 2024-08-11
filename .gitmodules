@@ -7,3 +7,6 @@
 [submodule "03-iosCalculator"]
 	path = 03-iosCalculator
 	url = https://github.com/pandc19/react-native-03-iosCalculator.git
+[submodule "04-NavigationApp"]
+	path = 04-NavigationApp
+	url = https://github.com/pandc19/react-native-04-NavigationApp.git
