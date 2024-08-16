@@ -10,3 +10,6 @@
 [submodule "04-NavigationApp"]
 	path = 04-NavigationApp
 	url = https://github.com/pandc19/react-native-04-NavigationApp.git
+[submodule "05-contextapp"]
+	path = 05-contextapp
+	url = https://github.com/pandc19/react-native-05-contextapp.git
