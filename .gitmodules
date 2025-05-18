@@ -16,3 +16,6 @@
 [submodule "06-moviesApp"]
 	path = 06-moviesApp
 	url = https://github.com/pandc19/react-native-06-moviesApp.git
+[submodule "07-componentsApp"]
+	path = 07-componentsApp
+	url = https://github.com/pandc19/react-native-07-componentsApp.git
