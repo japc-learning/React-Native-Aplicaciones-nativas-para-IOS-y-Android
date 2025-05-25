@@ -22,3 +22,6 @@
 [submodule "08-pokedex"]
 	path = 08-pokedex
 	url = https://github.com/pandc19/react-native-08-pokedex.git
+[submodule "09-mapsapp"]
+	path = 09-mapsapp
+	url = https://github.com/pandc19/react-native-09-mapsapp.git
