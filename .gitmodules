@@ -25,3 +25,6 @@
 [submodule "09-mapsapp"]
 	path = 09-mapsapp
 	url = https://github.com/pandc19/react-native-09-mapsapp.git
+[submodule "10-tesloshop-backend-main"]
+	path = 10-tesloshop-backend-main
+	url = https://github.com/pandc19/react-native-10-tesloshop-backend-main.git
