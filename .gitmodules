@@ -28,3 +28,6 @@
 [submodule "10-tesloshop-backend-main"]
 	path = 10-tesloshop-backend-main
 	url = https://github.com/pandc19/react-native-10-tesloshop-backend-main.git
+[submodule "11-productsApp"]
+	path = 11-productsApp
+	url = https://github.com/pandc19/react-native-11-productsApp.git
