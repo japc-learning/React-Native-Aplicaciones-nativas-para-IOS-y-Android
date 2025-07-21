@@ -1,33 +1,33 @@
 [submodule "01-react-foundation"]
 	path = 01-react-foundation
-	url = https://github.com/pandc19/react-native-01-react-foundation.git
+	url = https://github.com/japc-learning/react-native-01-react-foundation.git
 [submodule "02-MyFirstApp"]
 	path = 02-MyFirstApp
-	url = https://github.com/pandc19/react-native-02-MyFirstApp.git
+	url = https://github.com/japc-learning/react-native-02-MyFirstApp.git
 [submodule "03-iosCalculator"]
 	path = 03-iosCalculator
-	url = https://github.com/pandc19/react-native-03-iosCalculator.git
+	url = https://github.com/japc-learning/react-native-03-iosCalculator.git
 [submodule "04-NavigationApp"]
 	path = 04-NavigationApp
-	url = https://github.com/pandc19/react-native-04-NavigationApp.git
+	url = https://github.com/japc-learning/react-native-04-NavigationApp.git
 [submodule "05-contextapp"]
 	path = 05-contextapp
-	url = https://github.com/pandc19/react-native-05-contextapp.git
+	url = https://github.com/japc-learning/react-native-05-contextapp.git
 [submodule "06-moviesApp"]
 	path = 06-moviesApp
-	url = https://github.com/pandc19/react-native-06-moviesApp.git
+	url = https://github.com/japc-learning/react-native-06-moviesApp.git
 [submodule "07-componentsApp"]
 	path = 07-componentsApp
-	url = https://github.com/pandc19/react-native-07-componentsApp.git
+	url = https://github.com/japc-learning/react-native-07-componentsApp.git
 [submodule "08-pokedex"]
 	path = 08-pokedex
-	url = https://github.com/pandc19/react-native-08-pokedex.git
+	url = https://github.com/japc-learning/react-native-08-pokedex.git
 [submodule "09-mapsapp"]
 	path = 09-mapsapp
-	url = https://github.com/pandc19/react-native-09-mapsapp.git
+	url = https://github.com/japc-learning/react-native-09-mapsapp.git
 [submodule "10-tesloshop-backend-main"]
 	path = 10-tesloshop-backend-main
-	url = https://github.com/pandc19/react-native-10-tesloshop-backend-main.git
+	url = https://github.com/japc-learning/react-native-10-tesloshop-backend-main.git
 [submodule "11-productsApp"]
 	path = 11-productsApp
-	url = https://github.com/pandc19/react-native-11-productsApp.git
+	url = https://github.com/japc-learning/react-native-11-productsApp.git
